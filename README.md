@@ -162,7 +162,9 @@ Choose your application. Design the architecture. Build a
 prototype.
 
 ### W2: Capstone Work: 
+
 Complete your application, utilizing the core skills you have
 developed: C++ fundamentals, object-oriented programming,
 memory management, and concurrency.
+
 ======================================
