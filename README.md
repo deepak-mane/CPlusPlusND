@@ -21,7 +21,7 @@ Right-aligned
 | :---         |    :---      |          :--- |
 | INPUT AND OUTPUT   | STANDARD LIBRARY  | BUILD TOOLS (CMAKE)|
 | CONTROL FLOW       | CORE GUIDELINES   |      |
-| FUNCTIONS          | PASS-BY-REFERENCE |      |
+| FUNCTIONS          | PASS-BY-REFERENCE |    PROJECT - ROUTE PLANNING  |
     
 
 ### W1: Intro to C++ Lang :
@@ -68,7 +68,11 @@ Explore Object-Oriented Programming (OOP) in C++ with examples and exercises cov
 essentials of OOP like abstraction and inheritance all the way through to advanced topics like
 polymorphism and templates. In the end, you’ll build a Linux system monitor application to
 demonstrate C++ OOP in action!
-
+|TOPICS |TOPICS | TOPICS|
+| :---         |    :---      |          :--- |
+| CLASSES   | INTIALIZATION LISTS  | POLYMORPHISM|
+| CONSTRUCTORS       | ENCAPSULATION & ABSTRACTION  |      |
+| ACCESS MODIFIERS          | INHERITANCE & COMPOSITION |   PROJECT - SYSTEM MONITOR   |
 ### W1: Intro to OOP In C++:
 In the first lessons of this course, you’ll meet your instructors, get
 some context for what object oriented programming (OOP) is and
@@ -103,7 +107,11 @@ form an exciting and complete application!
 
 Discover the complexity of memory management in C++ by diving deep into stack vs. heap, pointers,
 references, new, delete and much more. By the end, you’ll write your very own smart pointer!
-
+|TOPICS |TOPICS | TOPICS|
+| :---         |    :---      |          :--- |
+| POINTERS | RALL  | MEMORY LEAKS|
+| REFERENCES       | DYNAMIC VS STATIC MEMORY   |      |
+| SCOPE          | SMART POINTERS |  PROJECT - NOT DEFINED    |
 ### W1: Stack Vs Heap:
 Generally speaking memory management in C++ is divided into two
 main categories by their storage in the host machine, stack and
@@ -144,7 +152,11 @@ you’ll get to do just that!
 Concurrent programming runs multiple threads of execution in parallel. 
 Concurrency is an advanced programming technique that, when properly implemented, 
 can dramatically accelerate your C++ programs.
-
+|TOPICS |TOPICS | TOPICS|
+| :---         |    :---      |          :--- |
+| PARALLEL ALGORITHMS   | LAMBDA FUNCTIONS  | FUTURES AND PROMISES|
+| PROCESSES      | THREAD SYNCHRONIZATION   |      |
+| THREADS          | THREAD COMMUNICATION | PROJECT - CELLULAR AUTOMATA    |
 ### W1: Parallel Algorithms:
 Take advantage of parallel algorithms from the standard library.
 Many important libraries have parallel implementations that will
