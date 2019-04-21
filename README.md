@@ -7,8 +7,17 @@ C++ NanoDegree
 Learn basic C++ syntax, functions, containers, and compiling and linking with multiple files. Use
 OpenStreetMap and the 2D visualization library IO2D to build a route planner that displays a path
 between two points on a map.
-[//]: #  Left-aligned
-|TOPICS | Center-aligned | Right-aligned |
+
+<!--- 
+Left-aligned
+:---  
+Center-aligned 
+:---:  
+Right-aligned 
+---:
+-->
+
+|TOPICS |TOPICS | TOPICS|
 | :---         |     :---:      |          ---: |
 | INPUT AND OUTPUT   | STANDARD LIBRARY  | BUILD TOOLS (CMAKE)|
 | CONTROL FLOW       | CORE GUIDELINES   |      |
