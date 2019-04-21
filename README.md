@@ -8,15 +8,12 @@ Learn basic C++ syntax, functions, containers, and compiling and linking with mu
 OpenStreetMap and the 2D visualization library IO2D to build a route planner that displays a path
 between two points on a map.
 
-|           |
-|-----|-----|
-|Foo  |37   |
-|Bar  |101  |
-
-1.  INPUT AND OUTPUT            5.  CORE GUIDELINES
-2.  CONTROL FLOW
-3.  FUNCTIONS
-4.  STANDARD LIBRARY    
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| INPUT AND OUTPUT   | STANDARD LIBRARY  | git status    |
+| CONTROL FLOW       | CORE GUIDELINES   | git diff      |
+| FUNCTIONS          | git diff       | git diff      |
+    
 
 ### W1: Intro to C++ Lang :
 In this week, you will build on your previous programming
