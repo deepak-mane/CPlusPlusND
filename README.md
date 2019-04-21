@@ -8,7 +8,7 @@ Learn basic C++ syntax, functions, containers, and compiling and linking with mu
 OpenStreetMap and the 2D visualization library IO2D to build a route planner that displays a path
 between two points on a map.
 
-|     |     |
+|           |
 |-----|-----|
 |Foo  |37   |
 |Bar  |101  |
