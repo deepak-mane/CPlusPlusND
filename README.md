@@ -18,7 +18,7 @@ Right-aligned
 -->
 
 |TOPICS |TOPICS | TOPICS|
-| :---         |     :---:      |          ---: |
+| :---         |    :---      |          :--- |
 | INPUT AND OUTPUT   | STANDARD LIBRARY  | BUILD TOOLS (CMAKE)|
 | CONTROL FLOW       | CORE GUIDELINES   |      |
 | FUNCTIONS          | PASS-BY-REFERENCE |      |
