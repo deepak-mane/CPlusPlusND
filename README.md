@@ -10,9 +10,9 @@ between two points on a map.
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
-| INPUT AND OUTPUT   | STANDARD LIBRARY  | git status    |
-| CONTROL FLOW       | CORE GUIDELINES   | git diff      |
-| FUNCTIONS          | git diff       | git diff      |
+| INPUT AND OUTPUT   | STANDARD LIBRARY  | BUILD TOOLS (CMAKE)|
+| CONTROL FLOW       | CORE GUIDELINES   |      |
+| FUNCTIONS          | PASS-BY-REFERENCE |      |
     
 
 ### W1: Intro to C++ Lang :
