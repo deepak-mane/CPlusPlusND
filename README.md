@@ -202,3 +202,6 @@ developed: C++ fundamentals, object-oriented programming,
 memory management, and concurrency.
 
 ======================================
+# Nice Repositories/Blogs/Articles/Books
+https://github.com/rigtorp/awesome-modern-cpp
+
